@@ -65,7 +65,8 @@ public class MyAuto {
 	//	ele.click();
 		
 		Thread.sleep(5000);
-		driver.quit();
+		Thread.sleep(5000);
+		//driver.quit();
 			}
 		      
 
